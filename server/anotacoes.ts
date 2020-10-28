@@ -1,0 +1,1 @@
+//migrations => controlam as versões do banco de dados
